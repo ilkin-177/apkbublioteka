@@ -1,0 +1,8 @@
+{
+  "name": "bublioteka-workspace",
+  "private": true,
+  "scripts": {
+    "start": "node bublioteka/server/server.js",
+    "dev": "node --watch bublioteka/server/server.js"
+  }
+}
